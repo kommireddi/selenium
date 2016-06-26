@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93089" started-at="2016-06-22T11:33:38Z" finished-at="2016-06-22T11:35:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93089" started-at="2016-06-22T11:33:38Z" finished-at="2016-06-22T11:35:11Z">
+      <class name="testcases.T004_LinkedIn">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="beforeSuite" is-config="true" duration-ms="750" started-at="2016-06-22T17:03:37Z" finished-at="2016-06-22T17:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-06-22T17:03:38Z" finished-at="2016-06-22T17:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-06-22T17:03:38Z" finished-at="2016-06-22T17:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="beforeMethod" is-config="true" duration-ms="15910" started-at="2016-06-22T17:03:39Z" finished-at="2016-06-22T17:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="case04(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="case04" duration-ms="76134" started-at="2016-06-22T17:03:55Z" data-provider="fetchData" finished-at="2016-06-22T17:05:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kommireddi.gk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testleaf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[baking]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case04 -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="getData" is-config="true" duration-ms="93" started-at="2016-06-22T17:05:11Z" finished-at="2016-06-22T17:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-06-22T17:05:11Z" finished-at="2016-06-22T17:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.T004_LinkedIn@13b32d7]" name="afterSuite" is-config="true" duration-ms="481" started-at="2016-06-22T17:05:11Z" finished-at="2016-06-22T17:05:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.T004_LinkedIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
